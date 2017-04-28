@@ -9,7 +9,7 @@ name: Victor Cosqui
 description: Software engineer, Madrid, Spain
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/pic.png
+avatar: /images/pic.png
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: vcosqui
   instagram:
-  linkedin:
+  linkedin: vcosqui
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: viccos
